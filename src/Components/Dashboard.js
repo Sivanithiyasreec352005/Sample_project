@@ -1,7 +1,5 @@
 import React from 'react'
-// import Layout from '../components/Layout'
-import { useSelector } from 'react-redux'
-import { selectUser } from '../redux/userSlice'
+
 function Dashboard() {
     const user=useSelector(selectUser)
     return (
