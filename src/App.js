@@ -2,10 +2,9 @@ import React from 'react';
 import Nav from './Components/Nav.js';
 import Home from './Components/Home.js';
 import Login from './Components/Login.js';
-// import Leftbar from './Components/Leftbar.js';
  import Dashboard from './Components/Dashboard.js';
  import Register from './Components/Register.js';
-//  import Settings from './Components/Settings.js'; 
+ 
  import About from './Components/About.js'; 
  import Services from './Components/Services.js';
  import Photos from './Components/Photos.js'
