@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "WanderWeaversApplication",
+            "request": "launch",
+            "mainClass": "com.example.events.eventsmanage.WanderWeaversApplication",
+            "projectName": "wander-weavers"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-WanderWeaversApplication<wander-weavers>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.example.wander.weavers.WanderWeaversApplication",
+            "projectName": "wander-weavers",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
